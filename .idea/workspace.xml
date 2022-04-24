@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9728fca0-ff03-4fc0-a259-8e6910d3c69f" name="Default Changelist" comment="清空">
+    <list default="true" id="9728fca0-ff03-4fc0-a259-8e6910d3c69f" name="Default Changelist" comment="第一次">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/archives.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/archives/2022/04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/archives/2022/04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2022/04/p/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/archives/2022/04/p/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/relevant/1650200357236.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/random.json" beforeDir="false" afterPath="$PROJECT_DIR$/articles/random.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/info" beforeDir="false" afterPath="$PROJECT_DIR$/blog/info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-solo/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/kanbanniang/assets/model.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/kanbanniang/assets/model.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rss.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/Solo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/Solo/p/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/待分类/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/待分类/p/1/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +56,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -64,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650725115084</updated>
       <workItem from="1650725117555" duration="289000" />
-      <workItem from="1650804036246" duration="641000" />
+      <workItem from="1650804036246" duration="1448000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1650725200325</created>
@@ -87,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650804164516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次">
+      <created>1650804837764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650804837764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,8 +134,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="第一次" />
     <MESSAGE value="清空" />
-    <option name="LAST_COMMIT_MESSAGE" value="清空" />
+    <MESSAGE value="第一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次" />
   </component>
 </project>
